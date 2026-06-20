@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_ID,Service_Name,Service_Category,Quantity,Sales_INR,Cost_INR,Profit_INR,Discount_Percent,Order_Status,Salesperson,Payment_Mode,Contract_Months
+ORD1001,12/30/2024,C009,Penetration Testing,Security Services,2,140000,60000,80000,0,Cancelled,Priya Nair,Net Banking,3
+ORD1002,10/29/2024,C001,AWS Management Package,Cloud Services,2,240000,100000,140000,0,In Progress,Pooja Singh,Bank Transfer,6
+ORD1003,11/28/2024,C014,Penetration Testing,Security Services,4,252000,120000,132000,10,Completed,Rohit Sharma,Credit Card,24
+ORD1004,10/24/2024,C025,Business Intelligence Report,Analytics,1,65000,28000,37000,0,Completed,Priya Nair,Cheque,12
+ORD1005,10/2/2024,C024,IT Support & Maintenance,IT Support,5,175000,75000,100000,0,Completed,Priya Nair,Net Banking,12
+ORD1006,11/17/2024,C028,AI/ML Model Development,AI & Automation,5,1400000,600000,800000,0,Cancelled,Priya Nair,Bank Transfer,6
+ORD1007,5/28/2024,C028,Penetration Testing,Security Services,1,66500,30000,36500,5,Completed,Sunita Pillai,Cheque,6
+ORD1008,7/8/2024,C022,Firewall & Network Security,Security Services,1,45000,20000,25000,10,Cancelled,Amit Verma,Net Banking,6
+ORD1009,3/24/2024,C009,Mobile App Development,Development,2,340000,170000,170000,15,Completed,Rohit Sharma,Credit Card,3
+ORD1010,6/10/2024,C003,Cybersecurity Audit,Security Services,5,255000,125000,130000,15,Completed,Deepa Iyer,UPI,24
+ORD1011,11/25/2024,C009,ERP Implementation,Software License,2,374000,180000,194000,15,In Progress,Arjun Mehta,Cheque,24
+ORD1012,10/25/2024,C008,ERP Implementation,Software License,5,1045000,450000,595000,5,Completed,Rohit Sharma,Bank Transfer,6
+ORD1013,12/23/2024,C014,API Integration Service,Development,1,83600,38000,45600,5,Completed,Pooja Singh,UPI,12
+ORD1014,10/10/2024,C001,Enterprise CRM Software,Software License,5,380000,200000,180000,20,Completed,Kavita Joshi,Bank Transfer,12
+ORD1015,9/27/2024,C024,Firewall & Network Security,Security Services,5,200000,100000,100000,20,Completed,Arjun Mehta,Bank Transfer,12
+ORD1016,11/23/2024,C007,ERP Implementation,Software License,3,528000,270000,258000,20,Completed,Arjun Mehta,Net Banking,3
+ORD1017,11/2/2024,C001,Enterprise CRM Software,Software License,3,228000,120000,108000,20,Completed,Deepa Iyer,Bank Transfer,6
+ORD1018,10/17/2024,C003,Annual AMC Contract,IT Support,1,33600,18000,15600,20,In Progress,Amit Verma,Credit Card,24
+ORD1019,12/3/2024,C028,API Integration Service,Development,4,352000,152000,200000,0,In Progress,Deepa Iyer,Cheque,24
+ORD1020,12/9/2024,C015,Network Setup & Config,IT Support,4,208000,88000,120000,0,Completed,Deepa Iyer,Bank Transfer,12
+ORD1021,1/11/2024,C008,Web Portal Development,Development,2,290000,120000,170000,0,Completed,Rohit Sharma,Credit Card,3
+ORD1022,1/17/2024,C003,Network Setup & Config,IT Support,2,98800,44000,54800,5,Cancelled,Sunita Pillai,Credit Card,6
+ORD1023,10/19/2024,C008,Annual AMC Contract,IT Support,4,168000,72000,96000,0,Completed,Priya Nair,UPI,12
+ORD1024,8/4/2024,C028,Cloud Migration Service,Cloud Services,1,140000,60000,80000,0,Completed,Kavita Joshi,Bank Transfer,6
+ORD1025,11/23/2024,C005,RPA Implementation,AI & Automation,2,304000,140000,164000,5,Completed,Deepa Iyer,Bank Transfer,24
+ORD1026,12/19/2024,C018,Cloud Infrastructure Setup,Cloud Services,1,144000,80000,64000,20,Completed,Amit Verma,UPI,24
+ORD1027,11/17/2024,C029,Cloud Migration Service,Cloud Services,2,266000,120000,146000,5,Completed,Nikhil Gupta,Cheque,24
+ORD1028,5/26/2024,C024,Mobile App Development,Development,4,800000,340000,460000,0,Completed,Sandeep Rao,Credit Card,3
+ORD1029,10/23/2024,C002,Business Intelligence Report,Analytics,1,65000,28000,37000,0,In Progress,Sunita Pillai,Net Banking,6
+ORD1030,1/30/2024,C003,HR Management System,Software License,1,72000,35000,37000,10,Completed,Deepa Iyer,UPI,3
+ORD1031,12/12/2024,C002,API Integration Service,Development,1,83600,38000,45600,5,Cancelled,Pooja Singh,Net Banking,12
+ORD1032,12/27/2024,C011,Penetration Testing,Security Services,3,199500,90000,109500,5,Completed,Sandeep Rao,UPI,12
+ORD1033,12/15/2024,C019,Enterprise CRM Software,Software License,1,85500,40000,45500,10,Completed,Arjun Mehta,Cheque,6
+ORD1034,6/27/2024,C029,Penetration Testing,Security Services,3,199500,90000,109500,5,Completed,Sunita Pillai,Net Banking,12
+ORD1035,11/9/2024,C026,Network Setup & Config,IT Support,1,44200,22000,22200,15,In Progress,Sandeep Rao,Bank Transfer,6
+ORD1036,10/10/2024,C024,Mobile App Development,Development,2,380000,170000,210000,5,Completed,Pooja Singh,Credit Card,12
+ORD1037,4/14/2024,C028,Firewall & Network Security,Security Services,5,237500,100000,137500,5,Completed,Rohit Sharma,Bank Transfer,24
+ORD1038,11/8/2024,C025,ERP Implementation,Software License,3,660000,270000,390000,0,Cancelled,Sunita Pillai,Net Banking,24
+ORD1039,10/6/2024,C029,ERP Implementation,Software License,5,1100000,450000,650000,0,Completed,Pooja Singh,Net Banking,6
+ORD1040,11/5/2024,C012,Cloud Migration Service,Cloud Services,3,420000,180000,240000,0,Cancelled,Deepa Iyer,Bank Transfer,12
+ORD1041,10/13/2024,C014,API Integration Service,Development,2,176000,76000,100000,0,Completed,Amit Verma,UPI,3
+ORD1042,4/1/2024,C011,RPA Implementation,AI & Automation,2,304000,140000,164000,5,Completed,Priya Nair,UPI,3
+ORD1043,11/24/2024,C012,Data Analytics Dashboard,Analytics,2,200000,90000,110000,0,Completed,Deepa Iyer,UPI,12
+ORD1044,5/22/2024,C025,Firewall & Network Security,Security Services,3,127500,60000,67500,15,In Progress,Nikhil Gupta,Net Banking,12
+ORD1045,10/30/2024,C006,Web Portal Development,Development,3,435000,180000,255000,0,Completed,Pooja Singh,UPI,12
+ORD1046,6/9/2024,C017,Enterprise CRM Software,Software License,4,342000,160000,182000,10,Completed,Sandeep Rao,Bank Transfer,24
+ORD1047,1/1/2024,C026,Mobile App Development,Development,2,380000,170000,210000,5,Completed,Priya Nair,Cheque,12
+ORD1048,12/5/2024,C024,Data Analytics Dashboard,Analytics,5,475000,225000,250000,5,Cancelled,Nikhil Gupta,Cheque,24
+ORD1049,10/13/2024,C007,RPA Implementation,AI & Automation,4,544000,280000,264000,15,Cancelled,Amit Verma,Net Banking,12
+ORD1050,7/26/2024,C001,Data Analytics Dashboard,Analytics,3,300000,135000,165000,0,Completed,Pooja Singh,Net Banking,12
+ORD1051,8/26/2024,C022,Cybersecurity Audit,Security Services,5,285000,125000,160000,5,Cancelled,Amit Verma,Bank Transfer,12
+ORD1052,9/20/2024,C020,Business Intelligence Report,Analytics,1,52000,28000,24000,20,Completed,Sandeep Rao,Credit Card,6
+ORD1053,10/28/2024,C016,API Integration Service,Development,1,83600,38000,45600,5,Completed,Pooja Singh,Credit Card,24
+ORD1054,9/10/2024,C005,Cloud Infrastructure Setup,Cloud Services,1,144000,80000,64000,20,Completed,Deepa Iyer,Credit Card,24
+ORD1055,1/26/2024,C030,Enterprise CRM Software,Software License,4,380000,160000,220000,0,Completed,Arjun Mehta,Net Banking,12
+ORD1056,8/14/2024,C024,Network Setup & Config,IT Support,4,166400,88000,78400,20,In Progress,Sunita Pillai,Credit Card,24
+ORD1057,10/28/2024,C027,Firewall & Network Security,Security Services,5,237500,100000,137500,5,Cancelled,Deepa Iyer,Cheque,24
+ORD1058,2/9/2024,C008,Firewall & Network Security,Security Services,3,142500,60000,82500,5,In Progress,Priya Nair,Credit Card,6
+ORD1059,4/28/2024,C005,Cybersecurity Audit,Security Services,1,57000,25000,32000,5,Completed,Kavita Joshi,Net Banking,24
+ORD1060,11/19/2024,C013,Web Portal Development,Development,1,116000,60000,56000,20,In Progress,Nikhil Gupta,UPI,3
+ORD1061,11/15/2024,C028,RPA Implementation,AI & Automation,5,680000,350000,330000,15,Cancelled,Arjun Mehta,Net Banking,6
+ORD1062,11/21/2024,C016,Cloud Infrastructure Setup,Cloud Services,4,684000,320000,364000,5,Cancelled,Nikhil Gupta,Credit Card,24
+ORD1063,3/6/2024,C018,Cloud Infrastructure Setup,Cloud Services,4,648000,320000,328000,10,In Progress,Rohit Sharma,Bank Transfer,24
+ORD1064,3/10/2024,C006,Cloud Migration Service,Cloud Services,3,399000,180000,219000,5,Completed,Deepa Iyer,UPI,12
+ORD1065,6/21/2024,C013,Firewall & Network Security,Security Services,4,190000,80000,110000,5,Completed,Sunita Pillai,Bank Transfer,3
+ORD1066,10/5/2024,C025,Cloud Migration Service,Cloud Services,1,140000,60000,80000,0,Completed,Rohit Sharma,Net Banking,6
+ORD1067,12/21/2024,C004,Web Portal Development,Development,2,275500,120000,155500,5,Cancelled,Sandeep Rao,Cheque,6
+ORD1068,11/6/2024,C024,Enterprise CRM Software,Software License,2,180500,80000,100500,5,Completed,Pooja Singh,Bank Transfer,12
+ORD1069,10/21/2024,C013,Chatbot Development,AI & Automation,2,260000,110000,150000,0,In Progress,Deepa Iyer,Bank Transfer,12
+ORD1070,12/16/2024,C004,Web Portal Development,Development,1,137750,60000,77750,5,In Progress,Nikhil Gupta,Cheque,3
+ORD1071,9/16/2024,C001,RPA Implementation,AI & Automation,4,640000,280000,360000,0,Completed,Kavita Joshi,UPI,6
+ORD1072,12/2/2024,C021,Firewall & Network Security,Security Services,5,200000,100000,100000,20,In Progress,Sunita Pillai,UPI,24
+ORD1073,10/28/2024,C027,AWS Management Package,Cloud Services,3,342000,150000,192000,5,Completed,Sunita Pillai,Net Banking,24
+ORD1074,11/7/2024,C006,Annual AMC Contract,IT Support,2,79800,36000,43800,5,Completed,Kavita Joshi,Cheque,12
+ORD1075,10/21/2024,C003,Penetration Testing,Security Services,4,266000,120000,146000,5,In Progress,Deepa Iyer,UPI,24
+ORD1076,8/17/2024,C003,Data Analytics Dashboard,Analytics,2,190000,90000,100000,5,Cancelled,Deepa Iyer,Cheque,12
+ORD1077,8/30/2024,C012,RPA Implementation,AI & Automation,5,760000,350000,410000,5,Completed,Sunita Pillai,Cheque,12
+ORD1078,12/28/2024,C007,Business Intelligence Report,Analytics,1,55250,28000,27250,15,In Progress,Amit Verma,Credit Card,6
+ORD1079,12/11/2024,C025,Network Setup & Config,IT Support,5,247000,110000,137000,5,Completed,Deepa Iyer,Cheque,6
+ORD1080,9/28/2024,C023,Mobile App Development,Development,2,380000,170000,210000,5,Completed,Rohit Sharma,Net Banking,12
+ORD1081,12/23/2024,C021,Annual AMC Contract,IT Support,1,33600,18000,15600,20,Completed,Pooja Singh,Cheque,24
+ORD1082,9/2/2024,C006,Cloud Migration Service,Cloud Services,3,336000,180000,156000,20,Completed,Priya Nair,Bank Transfer,24
+ORD1083,12/16/2024,C022,Cloud Migration Service,Cloud Services,2,280000,120000,160000,0,In Progress,Sandeep Rao,Bank Transfer,6
+ORD1084,3/1/2024,C014,API Integration Service,Development,5,352000,190000,162000,20,In Progress,Deepa Iyer,Net Banking,24
+ORD1085,8/18/2024,C010,Web Portal Development,Development,4,551000,240000,311000,5,In Progress,Pooja Singh,Bank Transfer,3
+ORD1086,4/16/2024,C009,AWS Management Package,Cloud Services,2,240000,100000,140000,0,Completed,Arjun Mehta,Bank Transfer,6
+ORD1087,1/2/2024,C023,API Integration Service,Development,4,334400,152000,182400,5,Completed,Deepa Iyer,Cheque,12
+ORD1088,12/25/2024,C003,Penetration Testing,Security Services,3,168000,90000,78000,20,Cancelled,Pooja Singh,Credit Card,24
+ORD1089,2/28/2024,C021,ERP Implementation,Software License,3,528000,270000,258000,20,Completed,Priya Nair,Bank Transfer,6
+ORD1090,6/6/2024,C027,Web Portal Development,Development,3,413250,180000,233250,5,Completed,Sunita Pillai,Cheque,24
+ORD1091,5/19/2024,C016,IT Support & Maintenance,IT Support,1,31500,15000,16500,10,Completed,Nikhil Gupta,Cheque,12
+ORD1092,12/22/2024,C027,Web Portal Development,Development,5,725000,300000,425000,0,Cancelled,Sandeep Rao,Net Banking,3
+ORD1093,3/30/2024,C021,IT Support & Maintenance,IT Support,3,105000,45000,60000,0,In Progress,Nikhil Gupta,UPI,3
+ORD1094,8/28/2024,C011,Business Intelligence Report,Analytics,1,52000,28000,24000,20,Completed,Kavita Joshi,UPI,24
+ORD1095,5/27/2024,C013,Mobile App Development,Development,1,190000,85000,105000,5,Completed,Kavita Joshi,Cheque,12
+ORD1096,2/29/2024,C013,Network Setup & Config,IT Support,1,44200,22000,22200,15,In Progress,Sunita Pillai,UPI,3
+ORD1097,4/6/2024,C020,Annual AMC Contract,IT Support,4,134400,72000,62400,20,Completed,Deepa Iyer,Cheque,6
+ORD1098,5/27/2024,C023,Annual AMC Contract,IT Support,1,42000,18000,24000,0,Cancelled,Pooja Singh,Credit Card,6
+ORD1099,6/8/2024,C018,RPA Implementation,AI & Automation,1,160000,70000,90000,0,Completed,Sunita Pillai,Bank Transfer,6
+ORD1100,9/12/2024,C010,Network Setup & Config,IT Support,3,148200,66000,82200,5,Completed,Sunita Pillai,Credit Card,24
+ORD1101,10/21/2024,C030,API Integration Service,Development,5,374000,190000,184000,15,Completed,Priya Nair,Cheque,24
+ORD1102,6/23/2024,C017,Firewall & Network Security,Security Services,1,47500,20000,27500,5,Cancelled,Sandeep Rao,Net Banking,24
+ORD1103,3/17/2024,C016,AI/ML Model Development,AI & Automation,3,756000,360000,396000,10,In Progress,Nikhil Gupta,UPI,12
+ORD1104,4/6/2024,C008,Web Portal Development,Development,4,580000,240000,340000,0,Completed,Rohit Sharma,Cheque,24
+ORD1105,12/27/2024,C013,Chatbot Development,AI & Automation,2,247000,110000,137000,5,Completed,Amit Verma,Net Banking,12
+ORD1106,2/21/2024,C015,Enterprise CRM Software,Software License,5,451250,200000,251250,5,Completed,Amit Verma,UPI,6
+ORD1107,2/8/2024,C009,Business Intelligence Report,Analytics,5,276250,140000,136250,15,Completed,Priya Nair,Cheque,24
+ORD1108,6/11/2024,C029,Annual AMC Contract,IT Support,5,210000,90000,120000,0,In Progress,Priya Nair,Credit Card,12
+ORD1109,4/26/2024,C014,Enterprise CRM Software,Software License,1,90250,40000,50250,5,Completed,Sandeep Rao,Bank Transfer,3
+ORD1110,6/15/2024,C010,AI/ML Model Development,AI & Automation,3,798000,360000,438000,5,Completed,Deepa Iyer,Net Banking,24
+ORD1111,10/16/2024,C006,HR Management System,Software License,2,160000,70000,90000,0,In Progress,Nikhil Gupta,Net Banking,6
+ORD1112,9/11/2024,C005,Penetration Testing,Security Services,4,238000,120000,118000,15,Completed,Sunita Pillai,Cheque,3
+ORD1113,8/26/2024,C022,Mobile App Development,Development,2,400000,170000,230000,0,Completed,Kavita Joshi,Net Banking,12
+ORD1114,11/23/2024,C023,Firewall & Network Security,Security Services,4,160000,80000,80000,20,Completed,Deepa Iyer,UPI,24
+ORD1115,12/9/2024,C012,Web Portal Development,Development,3,369750,180000,189750,15,Completed,Rohit Sharma,UPI,12
+ORD1116,1/5/2024,C022,Cloud Migration Service,Cloud Services,5,595000,300000,295000,15,Completed,Sandeep Rao,Credit Card,12
+ORD1117,4/22/2024,C020,Firewall & Network Security,Security Services,2,85000,40000,45000,15,Completed,Rohit Sharma,Cheque,24
+ORD1118,1/18/2024,C024,ERP Implementation,Software License,1,209000,90000,119000,5,Completed,Nikhil Gupta,Credit Card,6
+ORD1119,3/8/2024,C029,AI/ML Model Development,AI & Automation,5,1260000,600000,660000,10,Completed,Amit Verma,Cheque,24
+ORD1120,5/31/2024,C011,Enterprise CRM Software,Software License,4,380000,160000,220000,0,Completed,Deepa Iyer,UPI,12
+ORD1121,2/16/2024,C001,Firewall & Network Security,Security Services,5,250000,100000,150000,0,Completed,Kavita Joshi,Cheque,24
+ORD1122,11/22/2024,C004,Penetration Testing,Security Services,4,280000,120000,160000,0,In Progress,Arjun Mehta,Cheque,6
+ORD1123,11/25/2024,C030,Data Analytics Dashboard,Analytics,4,400000,180000,220000,0,Completed,Rohit Sharma,Bank Transfer,12
+ORD1124,10/27/2024,C029,Mobile App Development,Development,2,380000,170000,210000,5,Completed,Kavita Joshi,Net Banking,24
+ORD1125,10/27/2024,C005,RPA Implementation,AI & Automation,1,128000,70000,58000,20,Completed,Pooja Singh,UPI,12
+ORD1126,1/17/2024,C007,IT Support & Maintenance,IT Support,4,140000,60000,80000,0,Completed,Priya Nair,Cheque,12
+ORD1127,2/1/2024,C007,Enterprise CRM Software,Software License,4,380000,160000,220000,0,Cancelled,Deepa Iyer,Net Banking,3
+ORD1128,1/26/2024,C008,ERP Implementation,Software License,5,1100000,450000,650000,0,Completed,Arjun Mehta,Credit Card,6
+ORD1129,4/29/2024,C005,API Integration Service,Development,1,83600,38000,45600,5,Completed,Amit Verma,Net Banking,12
+ORD1130,9/30/2024,C005,Cloud Infrastructure Setup,Cloud Services,3,432000,240000,192000,20,Completed,Pooja Singh,Cheque,3
+ORD1131,10/13/2024,C024,RPA Implementation,AI & Automation,5,800000,350000,450000,0,Cancelled,Priya Nair,UPI,24
+ORD1132,7/4/2024,C004,IT Support & Maintenance,IT Support,5,175000,75000,100000,0,In Progress,Rohit Sharma,Net Banking,12
+ORD1133,8/22/2024,C001,Cloud Migration Service,Cloud Services,4,448000,240000,208000,20,Completed,Nikhil Gupta,Bank Transfer,24
+ORD1134,12/30/2024,C003,AWS Management Package,Cloud Services,3,324000,150000,174000,10,Completed,Priya Nair,Credit Card,12
+ORD1135,11/15/2024,C018,Business Intelligence Report,Analytics,4,234000,112000,122000,10,In Progress,Sandeep Rao,UPI,24
+ORD1136,2/20/2024,C004,Mobile App Development,Development,2,380000,170000,210000,5,Completed,Deepa Iyer,UPI,12
+ORD1137,8/20/2024,C024,Enterprise CRM Software,Software License,3,270750,120000,150750,5,Completed,Sandeep Rao,Cheque,6
+ORD1138,12/17/2024,C003,AWS Management Package,Cloud Services,1,120000,50000,70000,0,Completed,Priya Nair,Cheque,6
+ORD1139,12/7/2024,C018,Business Intelligence Report,Analytics,1,61750,28000,33750,5,Completed,Nikhil Gupta,Bank Transfer,12
+ORD1140,11/3/2024,C004,Web Portal Development,Development,5,725000,300000,425000,0,Completed,Sunita Pillai,Credit Card,3
+ORD1141,6/28/2024,C012,Enterprise CRM Software,Software License,3,256500,120000,136500,10,Completed,Nikhil Gupta,Net Banking,3
+ORD1142,11/7/2024,C027,Firewall & Network Security,Security Services,1,50000,20000,30000,0,Completed,Sandeep Rao,Cheque,12
+ORD1143,10/15/2024,C019,Chatbot Development,AI & Automation,1,130000,55000,75000,0,Cancelled,Rohit Sharma,Bank Transfer,6
+ORD1144,7/11/2024,C011,HR Management System,Software License,3,228000,105000,123000,5,Cancelled,Kavita Joshi,Net Banking,3
+ORD1145,12/15/2024,C002,AWS Management Package,Cloud Services,3,342000,150000,192000,5,Cancelled,Nikhil Gupta,UPI,24
+ORD1146,12/1/2024,C004,AI/ML Model Development,AI & Automation,4,1120000,480000,640000,0,Completed,Pooja Singh,UPI,12
+ORD1147,12/12/2024,C002,Cloud Infrastructure Setup,Cloud Services,2,342000,160000,182000,5,Completed,Amit Verma,Cheque,12
+ORD1148,11/29/2024,C024,RPA Implementation,AI & Automation,2,320000,140000,180000,0,Completed,Arjun Mehta,Credit Card,12
+ORD1149,2/6/2024,C024,Cloud Migration Service,Cloud Services,4,560000,240000,320000,0,Completed,Priya Nair,Cheque,24
+ORD1150,10/20/2024,C021,RPA Implementation,AI & Automation,3,480000,210000,270000,0,Completed,Rohit Sharma,Cheque,6
+ORD1151,11/12/2024,C023,AI/ML Model Development,AI & Automation,1,266000,120000,146000,5,Completed,Deepa Iyer,UPI,24
+ORD1152,11/5/2024,C024,Business Intelligence Report,Analytics,2,123500,56000,67500,5,Completed,Priya Nair,Net Banking,3
+ORD1153,9/28/2024,C029,AI/ML Model Development,AI & Automation,3,714000,360000,354000,15,Cancelled,Amit Verma,Credit Card,3
+ORD1154,10/19/2024,C020,ERP Implementation,Software License,1,220000,90000,130000,0,Cancelled,Sunita Pillai,UPI,24
+ORD1155,12/14/2024,C019,API Integration Service,Development,3,211200,114000,97200,20,Cancelled,Kavita Joshi,Credit Card,24
+ORD1156,2/4/2024,C021,Data Analytics Dashboard,Analytics,3,270000,135000,135000,10,Completed,Kavita Joshi,Net Banking,3
+ORD1157,6/7/2024,C002,Cloud Migration Service,Cloud Services,3,336000,180000,156000,20,Completed,Priya Nair,Bank Transfer,24
+ORD1158,8/24/2024,C026,Cloud Migration Service,Cloud Services,4,448000,240000,208000,20,In Progress,Deepa Iyer,Cheque,24
+ORD1159,10/4/2024,C015,Enterprise CRM Software,Software License,3,242250,120000,122250,15,Completed,Arjun Mehta,Credit Card,3
+ORD1160,5/6/2024,C015,Network Setup & Config,IT Support,5,234000,110000,124000,10,Completed,Kavita Joshi,Cheque,12
+ORD1161,7/17/2024,C011,API Integration Service,Development,1,70400,38000,32400,20,Cancelled,Kavita Joshi,Bank Transfer,12
+ORD1162,2/18/2024,C013,Data Analytics Dashboard,Analytics,3,255000,135000,120000,15,Cancelled,Pooja Singh,Credit Card,12
+ORD1163,2/11/2024,C005,AI/ML Model Development,AI & Automation,3,714000,360000,354000,15,Cancelled,Nikhil Gupta,Credit Card,3
+ORD1164,6/7/2024,C021,Business Intelligence Report,Analytics,2,110500,56000,54500,15,Cancelled,Arjun Mehta,Bank Transfer,24
+ORD1165,9/17/2024,C012,Data Analytics Dashboard,Analytics,2,200000,90000,110000,0,Completed,Sunita Pillai,Credit Card,6
+ORD1166,11/3/2024,C028,Enterprise CRM Software,Software License,5,380000,200000,180000,20,In Progress,Arjun Mehta,Bank Transfer,12
+ORD1167,11/14/2024,C005,HR Management System,Software License,2,128000,70000,58000,20,Cancelled,Pooja Singh,Credit Card,24
+ORD1168,1/23/2024,C022,Penetration Testing,Security Services,4,252000,120000,132000,10,Completed,Sunita Pillai,Credit Card,6
+ORD1169,6/7/2024,C026,Annual AMC Contract,IT Support,2,79800,36000,43800,5,Cancelled,Pooja Singh,UPI,24
+ORD1170,5/24/2024,C017,Network Setup & Config,IT Support,4,208000,88000,120000,0,Completed,Pooja Singh,Credit Card,12
+ORD1171,1/27/2024,C028,AI/ML Model Development,AI & Automation,5,1400000,600000,800000,0,Cancelled,Arjun Mehta,Bank Transfer,12
+ORD1172,2/12/2024,C009,IT Support & Maintenance,IT Support,5,175000,75000,100000,0,Completed,Priya Nair,Credit Card,24
+ORD1173,6/27/2024,C014,Cloud Migration Service,Cloud Services,4,504000,240000,264000,10,Completed,Deepa Iyer,UPI,3
+ORD1174,11/6/2024,C030,Enterprise CRM Software,Software License,3,228000,120000,108000,20,Completed,Amit Verma,Bank Transfer,12
+ORD1175,8/29/2024,C005,Annual AMC Contract,IT Support,4,151200,72000,79200,10,Completed,Priya Nair,Bank Transfer,12
+ORD1176,4/20/2024,C018,API Integration Service,Development,5,418000,190000,228000,5,Completed,Sandeep Rao,Credit Card,12
+ORD1177,11/19/2024,C021,API Integration Service,Development,4,352000,152000,200000,0,Completed,Sunita Pillai,Net Banking,3
+ORD1178,11/19/2024,C008,ERP Implementation,Software License,3,627000,270000,357000,5,Completed,Pooja Singh,Cheque,6
+ORD1179,10/19/2024,C022,AWS Management Package,Cloud Services,5,570000,250000,320000,5,Completed,Arjun Mehta,Net Banking,3
+ORD1180,7/18/2024,C002,Chatbot Development,AI & Automation,3,370500,165000,205500,5,Cancelled,Rohit Sharma,Cheque,3
+ORD1181,12/20/2024,C021,Enterprise CRM Software,Software License,5,403750,200000,203750,15,Completed,Amit Verma,Bank Transfer,12
+ORD1182,10/6/2024,C021,HR Management System,Software License,4,272000,140000,132000,15,Completed,Amit Verma,Credit Card,3
+ORD1183,10/22/2024,C002,Cybersecurity Audit,Security Services,1,57000,25000,32000,5,Completed,Arjun Mehta,UPI,24
+ORD1184,12/18/2024,C007,Data Analytics Dashboard,Analytics,3,240000,135000,105000,20,Completed,Kavita Joshi,Cheque,3
+ORD1185,7/7/2024,C013,IT Support & Maintenance,IT Support,4,133000,60000,73000,5,Completed,Sunita Pillai,UPI,12
+ORD1186,10/7/2024,C024,RPA Implementation,AI & Automation,1,152000,70000,82000,5,In Progress,Amit Verma,Net Banking,12
+ORD1187,11/7/2024,C022,Data Analytics Dashboard,Analytics,3,285000,135000,150000,5,In Progress,Nikhil Gupta,Credit Card,24
+ORD1188,6/28/2024,C024,AI/ML Model Development,AI & Automation,5,1330000,600000,730000,5,Completed,Rohit Sharma,Bank Transfer,24
+ORD1189,7/5/2024,C024,HR Management System,Software License,1,80000,35000,45000,0,In Progress,Sunita Pillai,Bank Transfer,6
+ORD1190,12/18/2024,C012,AI/ML Model Development,AI & Automation,4,1008000,480000,528000,10,Completed,Pooja Singh,Credit Card,24
+ORD1191,7/8/2024,C025,AWS Management Package,Cloud Services,5,600000,250000,350000,0,In Progress,Kavita Joshi,UPI,12
+ORD1192,10/11/2024,C001,HR Management System,Software License,4,288000,140000,148000,10,Completed,Arjun Mehta,Bank Transfer,12
+ORD1193,5/13/2024,C007,API Integration Service,Development,3,224400,114000,110400,15,Completed,Deepa Iyer,Bank Transfer,6
+ORD1194,2/7/2024,C029,IT Support & Maintenance,IT Support,1,28000,15000,13000,20,Cancelled,Kavita Joshi,Cheque,3
+ORD1195,10/8/2024,C029,Data Analytics Dashboard,Analytics,2,170000,90000,80000,15,Cancelled,Amit Verma,Cheque,6
+ORD1196,3/3/2024,C026,ERP Implementation,Software License,2,352000,180000,172000,20,Completed,Rohit Sharma,Cheque,12
+ORD1197,8/27/2024,C018,ERP Implementation,Software License,5,1100000,450000,650000,0,Completed,Sandeep Rao,UPI,24
+ORD1198,9/26/2024,C014,Web Portal Development,Development,1,145000,60000,85000,0,Completed,Priya Nair,UPI,24
+ORD1199,12/14/2024,C005,Mobile App Development,Development,5,1000000,425000,575000,0,Completed,Nikhil Gupta,Net Banking,3
+ORD1200,3/4/2024,C010,HR Management System,Software License,2,152000,70000,82000,5,Cancelled,Deepa Iyer,Cheque,12
+ORD1201,12/17/2024,C018,Firewall & Network Security,Security Services,2,85000,40000,45000,15,Completed,Pooja Singh,Net Banking,3
+ORD1202,9/14/2024,C019,Web Portal Development,Development,2,290000,120000,170000,0,Cancelled,Pooja Singh,Net Banking,12
+ORD1203,9/30/2024,C003,Cloud Migration Service,Cloud Services,5,665000,300000,365000,5,Cancelled,Deepa Iyer,Net Banking,24
+ORD1204,11/12/2024,C016,Mobile App Development,Development,3,510000,255000,255000,15,Completed,Sunita Pillai,Credit Card,24
+ORD1205,6/1/2024,C023,Cloud Migration Service,Cloud Services,2,266000,120000,146000,5,Completed,Sunita Pillai,UPI,6
+ORD1206,6/23/2024,C011,Business Intelligence Report,Analytics,3,185250,84000,101250,5,Completed,Kavita Joshi,Net Banking,3
+ORD1207,10/12/2024,C009,IT Support & Maintenance,IT Support,2,70000,30000,40000,0,Completed,Rohit Sharma,Cheque,24
+ORD1208,11/11/2024,C028,HR Management System,Software License,3,216000,105000,111000,10,Cancelled,Kavita Joshi,Credit Card,6
+ORD1209,9/12/2024,C015,Annual AMC Contract,IT Support,3,119700,54000,65700,5,Completed,Priya Nair,UPI,24
+ORD1210,11/11/2024,C002,Cloud Migration Service,Cloud Services,3,399000,180000,219000,5,In Progress,Sunita Pillai,Cheque,3
+ORD1211,2/25/2024,C029,Firewall & Network Security,Security Services,3,120000,60000,60000,20,Completed,Kavita Joshi,Bank Transfer,24
+ORD1212,1/27/2024,C007,AI/ML Model Development,AI & Automation,5,1330000,600000,730000,5,Completed,Nikhil Gupta,Net Banking,24
+ORD1213,12/15/2024,C022,API Integration Service,Development,1,88000,38000,50000,0,Completed,Nikhil Gupta,Cheque,12
+ORD1214,10/12/2024,C025,ERP Implementation,Software License,2,396000,180000,216000,10,In Progress,Nikhil Gupta,Net Banking,3
+ORD1215,12/27/2024,C011,Annual AMC Contract,IT Support,5,199500,90000,109500,5,Completed,Pooja Singh,Net Banking,6
+ORD1216,6/16/2024,C011,HR Management System,Software License,4,288000,140000,148000,10,Cancelled,Sandeep Rao,Net Banking,12
+ORD1217,9/16/2024,C018,Annual AMC Contract,IT Support,5,199500,90000,109500,5,Completed,Rohit Sharma,Cheque,12
+ORD1218,11/19/2024,C019,Data Analytics Dashboard,Analytics,1,90000,45000,45000,10,Completed,Sandeep Rao,Net Banking,6
+ORD1219,1/27/2024,C006,Network Setup & Config,IT Support,5,208000,110000,98000,20,Completed,Amit Verma,Credit Card,3
+ORD1220,10/20/2024,C004,Cybersecurity Audit,Security Services,1,57000,25000,32000,5,Completed,Nikhil Gupta,Credit Card,24
+ORD1221,11/30/2024,C025,API Integration Service,Development,4,281600,152000,129600,20,Cancelled,Rohit Sharma,Credit Card,6
+ORD1222,10/14/2024,C022,Annual AMC Contract,IT Support,5,199500,90000,109500,5,Completed,Amit Verma,UPI,12
+ORD1223,10/6/2024,C025,Firewall & Network Security,Security Services,5,237500,100000,137500,5,Completed,Deepa Iyer,Cheque,12
+ORD1224,4/25/2024,C010,Data Analytics Dashboard,Analytics,2,170000,90000,80000,15,Cancelled,Sunita Pillai,Cheque,24
+ORD1225,6/27/2024,C030,Firewall & Network Security,Security Services,3,150000,60000,90000,0,In Progress,Arjun Mehta,UPI,24
+ORD1226,6/25/2024,C026,ERP Implementation,Software License,3,660000,270000,390000,0,Completed,Priya Nair,Cheque,24
+ORD1227,11/27/2024,C007,Cybersecurity Audit,Security Services,5,285000,125000,160000,5,In Progress,Sandeep Rao,Credit Card,3
+ORD1228,11/11/2024,C008,Penetration Testing,Security Services,1,59500,30000,29500,15,In Progress,Deepa Iyer,Credit Card,3
+ORD1229,2/21/2024,C023,Annual AMC Contract,IT Support,1,35700,18000,17700,15,Completed,Rohit Sharma,Net Banking,6
+ORD1230,7/27/2024,C029,Annual AMC Contract,IT Support,4,142800,72000,70800,15,Completed,Sandeep Rao,Cheque,12
+ORD1231,10/8/2024,C021,Web Portal Development,Development,2,261000,120000,141000,10,Cancelled,Rohit Sharma,Credit Card,24
+ORD1232,3/31/2024,C002,Chatbot Development,AI & Automation,4,520000,220000,300000,0,Cancelled,Sandeep Rao,Bank Transfer,3
+ORD1233,6/1/2024,C004,Business Intelligence Report,Analytics,3,185250,84000,101250,5,Cancelled,Arjun Mehta,Net Banking,24
+ORD1234,3/9/2024,C015,Firewall & Network Security,Security Services,2,80000,40000,40000,20,Completed,Kavita Joshi,Credit Card,24
+ORD1235,10/20/2024,C001,Business Intelligence Report,Analytics,3,175500,84000,91500,10,Cancelled,Deepa Iyer,Credit Card,24
+ORD1236,8/6/2024,C003,Chatbot Development,AI & Automation,1,130000,55000,75000,0,Completed,Sunita Pillai,Cheque,6
+ORD1237,10/27/2024,C015,Firewall & Network Security,Security Services,3,142500,60000,82500,5,In Progress,Pooja Singh,Bank Transfer,12
+ORD1238,11/30/2024,C008,Cloud Migration Service,Cloud Services,1,133000,60000,73000,5,Completed,Amit Verma,UPI,12
+ORD1239,11/3/2024,C012,API Integration Service,Development,2,176000,76000,100000,0,Completed,Sunita Pillai,Credit Card,24
+ORD1240,11/6/2024,C023,Mobile App Development,Development,4,640000,340000,300000,20,In Progress,Deepa Iyer,Credit Card,3
+ORD1241,9/26/2024,C023,AI/ML Model Development,AI & Automation,1,252000,120000,132000,10,Completed,Rohit Sharma,Net Banking,6
+ORD1242,10/20/2024,C006,Business Intelligence Report,Analytics,5,308750,140000,168750,5,Completed,Deepa Iyer,Net Banking,24
+ORD1243,2/16/2024,C015,Cloud Migration Service,Cloud Services,4,560000,240000,320000,0,In Progress,Nikhil Gupta,UPI,3
+ORD1244,10/13/2024,C026,Data Analytics Dashboard,Analytics,1,95000,45000,50000,5,Completed,Rohit Sharma,Credit Card,3
+ORD1245,1/24/2024,C023,AWS Management Package,Cloud Services,5,600000,250000,350000,0,Completed,Sunita Pillai,Bank Transfer,12
+ORD1246,10/14/2024,C025,RPA Implementation,AI & Automation,3,456000,210000,246000,5,Completed,Nikhil Gupta,UPI,3
+ORD1247,12/15/2024,C028,Mobile App Development,Development,2,340000,170000,170000,15,Completed,Priya Nair,Credit Card,24
+ORD1248,10/25/2024,C027,Cloud Infrastructure Setup,Cloud Services,1,171000,80000,91000,5,Completed,Arjun Mehta,UPI,24
+ORD1249,11/10/2024,C005,Firewall & Network Security,Security Services,2,85000,40000,45000,15,Completed,Rohit Sharma,UPI,3
+ORD1250,10/9/2024,C020,Cloud Migration Service,Cloud Services,4,504000,240000,264000,10,Cancelled,Rohit Sharma,Credit Card,3
+ORD1251,7/24/2024,C018,Cybersecurity Audit,Security Services,1,60000,25000,35000,0,In Progress,Sandeep Rao,Credit Card,12
+ORD1252,10/22/2024,C022,Business Intelligence Report,Analytics,2,123500,56000,67500,5,Completed,Arjun Mehta,Credit Card,24
+ORD1253,12/7/2024,C019,HR Management System,Software License,4,288000,140000,148000,10,Completed,Rohit Sharma,Cheque,24
+ORD1254,9/25/2024,C014,RPA Implementation,AI & Automation,2,304000,140000,164000,5,Completed,Amit Verma,Net Banking,24
+ORD1255,5/3/2024,C010,ERP Implementation,Software License,4,880000,360000,520000,0,In Progress,Nikhil Gupta,UPI,6
+ORD1256,10/23/2024,C011,AWS Management Package,Cloud Services,4,384000,200000,184000,20,Completed,Priya Nair,Net Banking,6
+ORD1257,12/22/2024,C020,API Integration Service,Development,1,70400,38000,32400,20,Completed,Deepa Iyer,Net Banking,6
+ORD1258,11/8/2024,C010,Cloud Infrastructure Setup,Cloud Services,2,360000,160000,200000,0,Cancelled,Priya Nair,UPI,6
+ORD1259,12/22/2024,C007,Chatbot Development,AI & Automation,2,234000,110000,124000,10,Completed,Sandeep Rao,UPI,24
+ORD1260,9/30/2024,C010,Firewall & Network Security,Security Services,3,135000,60000,75000,10,Completed,Sunita Pillai,Bank Transfer,24
+ORD1261,6/12/2024,C012,Business Intelligence Report,Analytics,4,260000,112000,148000,0,In Progress,Deepa Iyer,Credit Card,3
+ORD1262,5/13/2024,C019,Web Portal Development,Development,4,551000,240000,311000,5,Completed,Deepa Iyer,Cheque,6
+ORD1263,7/13/2024,C008,Annual AMC Contract,IT Support,5,178500,90000,88500,15,Cancelled,Kavita Joshi,Cheque,24
+ORD1264,11/24/2024,C015,HR Management System,Software License,3,240000,105000,135000,0,Completed,Arjun Mehta,UPI,6
+ORD1265,10/4/2024,C002,Network Setup & Config,IT Support,1,41600,22000,19600,20,Completed,Rohit Sharma,Bank Transfer,24
+ORD1266,3/11/2024,C008,AWS Management Package,Cloud Services,2,240000,100000,140000,0,Completed,Arjun Mehta,UPI,12
+ORD1267,1/31/2024,C022,API Integration Service,Development,4,299200,152000,147200,15,Completed,Rohit Sharma,Bank Transfer,24
+ORD1268,12/28/2024,C009,Mobile App Development,Development,3,600000,255000,345000,0,In Progress,Nikhil Gupta,Credit Card,3
+ORD1269,2/19/2024,C008,Cybersecurity Audit,Security Services,5,270000,125000,145000,10,Completed,Kavita Joshi,Cheque,24
+ORD1270,2/10/2024,C013,IT Support & Maintenance,IT Support,5,175000,75000,100000,0,Cancelled,Deepa Iyer,Cheque,3
+ORD1271,11/30/2024,C021,Cloud Migration Service,Cloud Services,1,133000,60000,73000,5,Completed,Nikhil Gupta,Net Banking,24
+ORD1272,1/29/2024,C023,HR Management System,Software License,1,76000,35000,41000,5,Completed,Kavita Joshi,Net Banking,3
+ORD1273,9/27/2024,C008,Cybersecurity Audit,Security Services,5,285000,125000,160000,5,Completed,Rohit Sharma,Bank Transfer,12
+ORD1274,10/5/2024,C002,HR Management System,Software License,3,240000,105000,135000,0,Completed,Pooja Singh,Credit Card,24
+ORD1275,12/8/2024,C008,Web Portal Development,Development,4,493000,240000,253000,15,In Progress,Kavita Joshi,UPI,6
+ORD1276,12/18/2024,C017,AI/ML Model Development,AI & Automation,1,280000,120000,160000,0,Completed,Deepa Iyer,Bank Transfer,12
+ORD1277,11/5/2024,C020,Chatbot Development,AI & Automation,3,390000,165000,225000,0,Cancelled,Sandeep Rao,UPI,24
+ORD1278,4/26/2024,C013,RPA Implementation,AI & Automation,2,272000,140000,132000,15,In Progress,Nikhil Gupta,Bank Transfer,12
+ORD1279,5/6/2024,C003,Firewall & Network Security,Security Services,2,95000,40000,55000,5,Cancelled,Amit Verma,UPI,12
+ORD1280,9/27/2024,C010,IT Support & Maintenance,IT Support,3,84000,45000,39000,20,Completed,Priya Nair,Credit Card,3
+ORD1281,4/5/2024,C018,Mobile App Development,Development,5,950000,425000,525000,5,Completed,Rohit Sharma,Bank Transfer,12
+ORD1282,12/12/2024,C026,Business Intelligence Report,Analytics,4,260000,112000,148000,0,Completed,Nikhil Gupta,UPI,3
+ORD1283,10/13/2024,C008,Web Portal Development,Development,5,725000,300000,425000,0,Cancelled,Nikhil Gupta,Credit Card,6
+ORD1284,5/17/2024,C016,ERP Implementation,Software License,1,220000,90000,130000,0,Completed,Sandeep Rao,UPI,12
+ORD1285,9/4/2024,C012,Firewall & Network Security,Security Services,2,85000,40000,45000,15,Cancelled,Sunita Pillai,Net Banking,6
+ORD1286,11/4/2024,C001,Chatbot Development,AI & Automation,3,312000,165000,147000,20,In Progress,Nikhil Gupta,Cheque,24
+ORD1287,6/20/2024,C027,API Integration Service,Development,2,167200,76000,91200,5,Completed,Pooja Singh,Credit Card,24
+ORD1288,11/16/2024,C011,Data Analytics Dashboard,Analytics,4,360000,180000,180000,10,Completed,Kavita Joshi,UPI,12
+ORD1289,7/20/2024,C030,Web Portal Development,Development,2,261000,120000,141000,10,In Progress,Amit Verma,Net Banking,3
+ORD1290,8/24/2024,C007,IT Support & Maintenance,IT Support,3,84000,45000,39000,20,Cancelled,Priya Nair,UPI,24
+ORD1291,3/12/2024,C008,Firewall & Network Security,Security Services,2,85000,40000,45000,15,Completed,Nikhil Gupta,Bank Transfer,24
+ORD1292,11/2/2024,C013,Mobile App Development,Development,5,800000,425000,375000,20,Cancelled,Nikhil Gupta,Net Banking,3
+ORD1293,7/3/2024,C026,Mobile App Development,Development,5,850000,425000,425000,15,Completed,Priya Nair,Credit Card,12
+ORD1294,3/26/2024,C002,Web Portal Development,Development,4,464000,240000,224000,20,Completed,Nikhil Gupta,Bank Transfer,3
+ORD1295,12/1/2024,C024,Network Setup & Config,IT Support,5,234000,110000,124000,10,Cancelled,Pooja Singh,Credit Card,24
+ORD1296,7/10/2024,C025,Web Portal Development,Development,5,725000,300000,425000,0,Completed,Rohit Sharma,UPI,3
+ORD1297,5/31/2024,C003,Enterprise CRM Software,Software License,2,180500,80000,100500,5,Completed,Kavita Joshi,UPI,6
+ORD1298,9/23/2024,C016,Enterprise CRM Software,Software License,4,323000,160000,163000,15,Cancelled,Sunita Pillai,Cheque,3
+ORD1299,12/26/2024,C004,Cloud Infrastructure Setup,Cloud Services,3,459000,240000,219000,15,Completed,Amit Verma,Credit Card,6
+ORD1300,12/7/2024,C014,IT Support & Maintenance,IT Support,2,56000,30000,26000,20,Completed,Amit Verma,Credit Card,24
+ORD1301,12/14/2024,C029,Cybersecurity Audit,Security Services,4,216000,100000,116000,10,Completed,Nikhil Gupta,Bank Transfer,6
+ORD1302,12/26/2024,C026,AWS Management Package,Cloud Services,5,600000,250000,350000,0,In Progress,Amit Verma,Cheque,12
+ORD1303,4/10/2024,C009,Annual AMC Contract,IT Support,5,178500,90000,88500,15,Completed,Pooja Singh,UPI,24
+ORD1304,11/11/2024,C028,IT Support & Maintenance,IT Support,5,175000,75000,100000,0,Cancelled,Sandeep Rao,Net Banking,3
+ORD1305,10/12/2024,C008,Data Analytics Dashboard,Analytics,1,100000,45000,55000,0,Completed,Amit Verma,Net Banking,24
+ORD1306,8/2/2024,C019,Chatbot Development,AI & Automation,4,520000,220000,300000,0,Completed,Arjun Mehta,Credit Card,6
+ORD1307,10/20/2024,C011,IT Support & Maintenance,IT Support,5,175000,75000,100000,0,Completed,Rohit Sharma,UPI,6
+ORD1308,4/9/2024,C018,Network Setup & Config,IT Support,4,197600,88000,109600,5,Cancelled,Sunita Pillai,UPI,24
+ORD1309,12/8/2024,C001,Penetration Testing,Security Services,3,210000,90000,120000,0,Completed,Deepa Iyer,Net Banking,12
+ORD1310,3/27/2024,C019,Annual AMC Contract,IT Support,5,189000,90000,99000,10,Completed,Pooja Singh,Bank Transfer,12
+ORD1311,10/5/2024,C012,Mobile App Development,Development,1,160000,85000,75000,20,Cancelled,Sunita Pillai,Net Banking,6
+ORD1312,12/19/2024,C025,Penetration Testing,Security Services,3,168000,90000,78000,20,Completed,Sunita Pillai,Cheque,12
+ORD1313,2/14/2024,C004,Penetration Testing,Security Services,2,112000,60000,52000,20,Cancelled,Pooja Singh,Cheque,24
+ORD1314,3/25/2024,C026,Cybersecurity Audit,Security Services,2,96000,50000,46000,20,Completed,Pooja Singh,Cheque,12
+ORD1315,11/1/2024,C011,Data Analytics Dashboard,Analytics,3,270000,135000,135000,10,Completed,Arjun Mehta,Bank Transfer,6
+ORD1316,7/29/2024,C009,ERP Implementation,Software License,2,440000,180000,260000,0,Completed,Kavita Joshi,Credit Card,24
+ORD1317,12/16/2024,C009,RPA Implementation,AI & Automation,4,608000,280000,328000,5,Completed,Priya Nair,UPI,12
+ORD1318,12/21/2024,C012,IT Support & Maintenance,IT Support,4,133000,60000,73000,5,In Progress,Rohit Sharma,Bank Transfer,24
+ORD1319,11/21/2024,C012,AWS Management Package,Cloud Services,5,570000,250000,320000,5,Completed,Nikhil Gupta,Credit Card,24
+ORD1320,5/17/2024,C010,Business Intelligence Report,Analytics,5,292500,140000,152500,10,Completed,Pooja Singh,UPI,12
+ORD1321,12/15/2024,C002,Enterprise CRM Software,Software License,4,380000,160000,220000,0,Completed,Amit Verma,UPI,24
+ORD1322,1/1/2024,C014,Cybersecurity Audit,Security Services,2,102000,50000,52000,15,Completed,Amit Verma,Cheque,3
+ORD1323,12/1/2024,C003,AI/ML Model Development,AI & Automation,2,560000,240000,320000,0,Completed,Sandeep Rao,Credit Card,24
+ORD1324,10/9/2024,C001,Cybersecurity Audit,Security Services,4,240000,100000,140000,0,Completed,Pooja Singh,Credit Card,24
+ORD1325,11/9/2024,C027,Enterprise CRM Software,Software License,4,323000,160000,163000,15,Completed,Sunita Pillai,Bank Transfer,6
+ORD1326,10/10/2024,C004,Business Intelligence Report,Analytics,3,185250,84000,101250,5,Completed,Nikhil Gupta,Credit Card,6
+ORD1327,2/5/2024,C001,API Integration Service,Development,2,167200,76000,91200,5,Completed,Deepa Iyer,Credit Card,24
+ORD1328,11/11/2024,C028,Cybersecurity Audit,Security Services,1,60000,25000,35000,0,Completed,Priya Nair,Net Banking,24
+ORD1329,6/28/2024,C011,ERP Implementation,Software License,2,418000,180000,238000,5,Cancelled,Priya Nair,Credit Card,12
+ORD1330,12/20/2024,C029,Data Analytics Dashboard,Analytics,2,180000,90000,90000,10,In Progress,Arjun Mehta,Credit Card,24
+ORD1331,5/31/2024,C026,Penetration Testing,Security Services,4,266000,120000,146000,5,Completed,Deepa Iyer,UPI,3
+ORD1332,9/27/2024,C001,AI/ML Model Development,AI & Automation,3,840000,360000,480000,0,Completed,Pooja Singh,UPI,12
+ORD1333,10/6/2024,C025,Annual AMC Contract,IT Support,1,42000,18000,24000,0,In Progress,Priya Nair,Bank Transfer,12
+ORD1334,10/4/2024,C026,Chatbot Development,AI & Automation,5,617500,275000,342500,5,Cancelled,Arjun Mehta,UPI,24
+ORD1335,12/25/2024,C021,Mobile App Development,Development,5,900000,425000,475000,10,Completed,Sandeep Rao,Bank Transfer,12
+ORD1336,2/10/2024,C007,ERP Implementation,Software License,5,1045000,450000,595000,5,Completed,Pooja Singh,Bank Transfer,12
+ORD1337,12/23/2024,C028,Penetration Testing,Security Services,1,70000,30000,40000,0,Completed,Nikhil Gupta,Bank Transfer,24
+ORD1338,11/9/2024,C010,HR Management System,Software License,1,80000,35000,45000,0,Cancelled,Amit Verma,Bank Transfer,6
+ORD1339,9/11/2024,C017,Network Setup & Config,IT Support,3,156000,66000,90000,0,Completed,Amit Verma,Cheque,3
+ORD1340,1/16/2024,C014,Firewall & Network Security,Security Services,5,250000,100000,150000,0,Completed,Pooja Singh,Bank Transfer,24
+ORD1341,8/21/2024,C002,Annual AMC Contract,IT Support,5,210000,90000,120000,0,Completed,Amit Verma,Cheque,3
+ORD1342,10/20/2024,C004,Penetration Testing,Security Services,5,350000,150000,200000,0,Completed,Rohit Sharma,Credit Card,3
+ORD1343,8/29/2024,C030,ERP Implementation,Software License,2,352000,180000,172000,20,Completed,Arjun Mehta,UPI,6
+ORD1344,12/28/2024,C011,Firewall & Network Security,Security Services,1,45000,20000,25000,10,Completed,Priya Nair,Net Banking,3
+ORD1345,12/2/2024,C002,Chatbot Development,AI & Automation,1,123500,55000,68500,5,Completed,Sandeep Rao,Cheque,3
+ORD1346,10/10/2024,C012,Cybersecurity Audit,Security Services,3,162000,75000,87000,10,Completed,Pooja Singh,Credit Card,24
+ORD1347,7/7/2024,C016,Cybersecurity Audit,Security Services,5,240000,125000,115000,20,Completed,Amit Verma,Bank Transfer,24
+ORD1348,11/10/2024,C021,Cloud Infrastructure Setup,Cloud Services,3,540000,240000,300000,0,Cancelled,Nikhil Gupta,Cheque,3
+ORD1349,4/15/2024,C008,RPA Implementation,AI & Automation,4,640000,280000,360000,0,Completed,Sandeep Rao,Bank Transfer,3
+ORD1350,4/28/2024,C017,RPA Implementation,AI & Automation,3,456000,210000,246000,5,Cancelled,Priya Nair,Net Banking,3
+ORD1351,11/16/2024,C003,Web Portal Development,Development,5,725000,300000,425000,0,Completed,Amit Verma,Credit Card,12
+ORD1352,5/13/2024,C030,Chatbot Development,AI & Automation,3,370500,165000,205500,5,Completed,Sandeep Rao,Credit Card,3
+ORD1353,12/10/2024,C004,ERP Implementation,Software License,1,220000,90000,130000,0,Completed,Sunita Pillai,Cheque,24
+ORD1354,3/2/2024,C025,Cybersecurity Audit,Security Services,4,228000,100000,128000,5,Completed,Sandeep Rao,Bank Transfer,3
+ORD1355,3/21/2024,C010,API Integration Service,Development,1,88000,38000,50000,0,Completed,Amit Verma,Bank Transfer,6
+ORD1356,7/1/2024,C002,Data Analytics Dashboard,Analytics,3,240000,135000,105000,20,Completed,Rohit Sharma,UPI,24
+ORD1357,10/11/2024,C008,Enterprise CRM Software,Software License,4,380000,160000,220000,0,Completed,Priya Nair,Bank Transfer,3
+ORD1358,11/17/2024,C012,AWS Management Package,Cloud Services,5,540000,250000,290000,10,Completed,Priya Nair,Bank Transfer,3
+ORD1359,4/11/2024,C015,ERP Implementation,Software License,1,176000,90000,86000,20,Completed,Priya Nair,Bank Transfer,24
+ORD1360,12/9/2024,C014,Chatbot Development,AI & Automation,4,520000,220000,300000,0,Completed,Nikhil Gupta,Credit Card,12
+ORD1361,4/19/2024,C009,Firewall & Network Security,Security Services,4,200000,80000,120000,0,Completed,Pooja Singh,Net Banking,6
+ORD1362,11/18/2024,C029,Mobile App Development,Development,4,800000,340000,460000,0,Completed,Sandeep Rao,UPI,6
+ORD1363,12/3/2024,C008,Mobile App Development,Development,1,190000,85000,105000,5,Cancelled,Kavita Joshi,UPI,24
+ORD1364,6/25/2024,C017,Business Intelligence Report,Analytics,4,247000,112000,135000,5,Completed,Rohit Sharma,Cheque,6
+ORD1365,1/16/2024,C025,Firewall & Network Security,Security Services,1,40000,20000,20000,20,Completed,Arjun Mehta,Cheque,6
+ORD1366,12/20/2024,C008,Firewall & Network Security,Security Services,5,200000,100000,100000,20,Cancelled,Rohit Sharma,Credit Card,24
+ORD1367,6/30/2024,C028,HR Management System,Software License,2,160000,70000,90000,0,In Progress,Kavita Joshi,Cheque,3
+ORD1368,12/26/2024,C019,Web Portal Development,Development,2,261000,120000,141000,10,Completed,Sunita Pillai,Net Banking,12
+ORD1369,3/30/2024,C003,Cloud Migration Service,Cloud Services,2,252000,120000,132000,10,Completed,Rohit Sharma,Net Banking,24
+ORD1370,1/1/2024,C020,Cybersecurity Audit,Security Services,2,114000,50000,64000,5,Cancelled,Amit Verma,Cheque,3
+ORD1371,12/26/2024,C030,ERP Implementation,Software License,1,176000,90000,86000,20,In Progress,Kavita Joshi,Bank Transfer,12
+ORD1372,12/26/2024,C013,Web Portal Development,Development,1,137750,60000,77750,5,Completed,Kavita Joshi,Credit Card,6
+ORD1373,8/11/2024,C016,Business Intelligence Report,Analytics,2,110500,56000,54500,15,In Progress,Pooja Singh,Cheque,6
+ORD1374,12/6/2024,C006,Chatbot Development,AI & Automation,3,331500,165000,166500,15,Cancelled,Sandeep Rao,Credit Card,6
+ORD1375,1/1/2024,C019,Chatbot Development,AI & Automation,5,650000,275000,375000,0,Completed,Pooja Singh,Cheque,6
+ORD1376,11/23/2024,C030,Annual AMC Contract,IT Support,2,79800,36000,43800,5,Cancelled,Priya Nair,Credit Card,12
+ORD1377,10/8/2024,C027,Business Intelligence Report,Analytics,4,260000,112000,148000,0,Completed,Deepa Iyer,Credit Card,3
+ORD1378,10/10/2024,C024,Cloud Infrastructure Setup,Cloud Services,1,171000,80000,91000,5,Completed,Nikhil Gupta,Credit Card,24
+ORD1379,9/9/2024,C012,Mobile App Development,Development,4,800000,340000,460000,0,Completed,Pooja Singh,Credit Card,6
+ORD1380,10/1/2024,C010,Cloud Infrastructure Setup,Cloud Services,3,513000,240000,273000,5,Completed,Priya Nair,Cheque,6
+ORD1381,10/6/2024,C018,AWS Management Package,Cloud Services,3,324000,150000,174000,10,In Progress,Sunita Pillai,Bank Transfer,24
+ORD1382,11/21/2024,C006,Cloud Migration Service,Cloud Services,1,133000,60000,73000,5,Completed,Deepa Iyer,UPI,12
+ORD1383,10/27/2024,C004,Cloud Migration Service,Cloud Services,4,504000,240000,264000,10,In Progress,Sunita Pillai,Credit Card,3
+ORD1384,10/8/2024,C010,API Integration Service,Development,4,352000,152000,200000,0,Completed,Rohit Sharma,Credit Card,6
+ORD1385,10/7/2024,C016,Enterprise CRM Software,Software License,3,228000,120000,108000,20,Completed,Sunita Pillai,UPI,12
+ORD1386,2/16/2024,C013,HR Management System,Software License,3,228000,105000,123000,5,Completed,Amit Verma,UPI,3
+ORD1387,5/14/2024,C009,Penetration Testing,Security Services,3,189000,90000,99000,10,Completed,Amit Verma,Bank Transfer,3
+ORD1388,12/8/2024,C018,RPA Implementation,AI & Automation,5,800000,350000,450000,0,In Progress,Rohit Sharma,UPI,24
+ORD1389,10/1/2024,C030,Annual AMC Contract,IT Support,5,210000,90000,120000,0,Completed,Sandeep Rao,Bank Transfer,24
+ORD1390,1/18/2024,C029,Network Setup & Config,IT Support,5,221000,110000,111000,15,In Progress,Amit Verma,Bank Transfer,24
+ORD1391,3/29/2024,C006,Cybersecurity Audit,Security Services,2,120000,50000,70000,0,Completed,Nikhil Gupta,Bank Transfer,24
+ORD1392,4/13/2024,C021,ERP Implementation,Software License,5,1045000,450000,595000,5,Completed,Priya Nair,Bank Transfer,24
+ORD1393,10/11/2024,C011,Firewall & Network Security,Security Services,5,237500,100000,137500,5,Completed,Pooja Singh,Net Banking,24
+ORD1394,2/27/2024,C005,Web Portal Development,Development,5,652500,300000,352500,10,Completed,Priya Nair,Net Banking,3
+ORD1395,5/26/2024,C029,AI/ML Model Development,AI & Automation,4,1064000,480000,584000,5,Completed,Sunita Pillai,Net Banking,24
+ORD1396,11/17/2024,C005,API Integration Service,Development,5,374000,190000,184000,15,Cancelled,Nikhil Gupta,Bank Transfer,24
+ORD1397,6/18/2024,C002,Annual AMC Contract,IT Support,3,119700,54000,65700,5,Completed,Kavita Joshi,Cheque,12
+ORD1398,5/23/2024,C028,Enterprise CRM Software,Software License,2,190000,80000,110000,0,Completed,Sunita Pillai,Cheque,12
+ORD1399,8/1/2024,C003,Cybersecurity Audit,Security Services,4,240000,100000,140000,0,Completed,Sunita Pillai,Net Banking,12
+ORD1400,1/29/2024,C006,AWS Management Package,Cloud Services,3,306000,150000,156000,15,In Progress,Nikhil Gupta,Credit Card,3
+ORD1401,10/22/2024,C027,Cloud Migration Service,Cloud Services,2,280000,120000,160000,0,Completed,Rohit Sharma,Cheque,6
+ORD1402,5/20/2024,C015,Network Setup & Config,IT Support,4,176800,88000,88800,15,Completed,Rohit Sharma,Credit Card,12
+ORD1403,9/7/2024,C006,Annual AMC Contract,IT Support,5,189000,90000,99000,10,Completed,Kavita Joshi,Credit Card,12
+ORD1404,9/30/2024,C013,Cloud Migration Service,Cloud Services,2,224000,120000,104000,20,In Progress,Deepa Iyer,Credit Card,6
+ORD1405,12/19/2024,C014,Network Setup & Config,IT Support,1,41600,22000,19600,20,Cancelled,Rohit Sharma,UPI,6
+ORD1406,9/28/2024,C008,Firewall & Network Security,Security Services,5,200000,100000,100000,20,Completed,Sandeep Rao,UPI,24
+ORD1407,6/27/2024,C007,IT Support & Maintenance,IT Support,3,89250,45000,44250,15,In Progress,Pooja Singh,UPI,3
+ORD1408,1/4/2024,C022,AI/ML Model Development,AI & Automation,5,1190000,600000,590000,15,In Progress,Pooja Singh,Cheque,12
+ORD1409,10/5/2024,C011,Firewall & Network Security,Security Services,3,120000,60000,60000,20,Completed,Sandeep Rao,Cheque,6
+ORD1410,3/17/2024,C008,Cloud Migration Service,Cloud Services,5,665000,300000,365000,5,Cancelled,Kavita Joshi,Credit Card,3
+ORD1411,12/1/2024,C010,Firewall & Network Security,Security Services,4,190000,80000,110000,5,Completed,Rohit Sharma,Net Banking,6
+ORD1412,6/24/2024,C008,Mobile App Development,Development,4,680000,340000,340000,15,Completed,Arjun Mehta,Cheque,6
+ORD1413,12/2/2024,C006,Data Analytics Dashboard,Analytics,1,95000,45000,50000,5,Completed,Sandeep Rao,Net Banking,6
+ORD1414,12/14/2024,C021,AWS Management Package,Cloud Services,2,228000,100000,128000,5,Completed,Sandeep Rao,UPI,12
+ORD1415,11/3/2024,C015,Enterprise CRM Software,Software License,4,380000,160000,220000,0,Cancelled,Pooja Singh,Net Banking,3
+ORD1416,8/29/2024,C017,Enterprise CRM Software,Software License,4,342000,160000,182000,10,Completed,Nikhil Gupta,Bank Transfer,6
+ORD1417,3/11/2024,C011,RPA Implementation,AI & Automation,5,760000,350000,410000,5,Completed,Kavita Joshi,Credit Card,3
+ORD1418,9/6/2024,C006,Business Intelligence Report,Analytics,1,65000,28000,37000,0,Completed,Sandeep Rao,Credit Card,6
+ORD1419,10/22/2024,C016,AWS Management Package,Cloud Services,2,216000,100000,116000,10,Completed,Nikhil Gupta,UPI,24
+ORD1420,9/1/2024,C002,Mobile App Development,Development,2,340000,170000,170000,15,Completed,Rohit Sharma,Cheque,6
+ORD1421,1/10/2024,C021,Penetration Testing,Security Services,2,119000,60000,59000,15,Completed,Sandeep Rao,Credit Card,3
+ORD1422,7/15/2024,C010,HR Management System,Software License,1,64000,35000,29000,20,Completed,Sandeep Rao,Cheque,24
+ORD1423,9/23/2024,C011,RPA Implementation,AI & Automation,2,304000,140000,164000,5,Completed,Kavita Joshi,Credit Card,6
+ORD1424,10/25/2024,C024,ERP Implementation,Software License,2,374000,180000,194000,15,Completed,Pooja Singh,Net Banking,6
+ORD1425,3/4/2024,C021,Cloud Migration Service,Cloud Services,4,476000,240000,236000,15,Completed,Arjun Mehta,Net Banking,3
+ORD1426,10/31/2024,C022,Enterprise CRM Software,Software License,1,95000,40000,55000,0,Cancelled,Priya Nair,UPI,24
+ORD1427,10/29/2024,C016,ERP Implementation,Software License,2,374000,180000,194000,15,Cancelled,Rohit Sharma,Cheque,24
+ORD1428,12/2/2024,C009,API Integration Service,Development,5,374000,190000,184000,15,Completed,Nikhil Gupta,Bank Transfer,3
+ORD1429,10/10/2024,C016,Cybersecurity Audit,Security Services,5,300000,125000,175000,0,Completed,Arjun Mehta,Credit Card,12
+ORD1430,12/26/2024,C006,Cloud Migration Service,Cloud Services,5,665000,300000,365000,5,Completed,Sunita Pillai,Cheque,6
+ORD1431,10/8/2024,C030,Enterprise CRM Software,Software License,5,403750,200000,203750,15,Completed,Amit Verma,Bank Transfer,3
+ORD1432,2/21/2024,C021,Penetration Testing,Security Services,4,266000,120000,146000,5,Completed,Sunita Pillai,Bank Transfer,3
+ORD1433,3/30/2024,C028,Data Analytics Dashboard,Analytics,3,240000,135000,105000,20,Cancelled,Kavita Joshi,UPI,3
+ORD1434,2/18/2024,C029,Cloud Migration Service,Cloud Services,1,112000,60000,52000,20,Completed,Amit Verma,Cheque,12
+ORD1435,8/12/2024,C009,AWS Management Package,Cloud Services,3,288000,150000,138000,20,Completed,Amit Verma,Bank Transfer,24
+ORD1436,7/23/2024,C009,Chatbot Development,AI & Automation,4,416000,220000,196000,20,Completed,Amit Verma,Bank Transfer,6
+ORD1437,12/22/2024,C028,HR Management System,Software License,1,76000,35000,41000,5,In Progress,Sunita Pillai,Net Banking,24
+ORD1438,4/2/2024,C025,AI/ML Model Development,AI & Automation,5,1400000,600000,800000,0,Cancelled,Amit Verma,UPI,24
+ORD1439,2/27/2024,C015,Cloud Migration Service,Cloud Services,1,133000,60000,73000,5,Cancelled,Kavita Joshi,Bank Transfer,6
+ORD1440,12/8/2024,C017,Network Setup & Config,IT Support,5,260000,110000,150000,0,Completed,Deepa Iyer,UPI,12
+ORD1441,12/5/2024,C013,ERP Implementation,Software License,5,990000,450000,540000,10,Completed,Rohit Sharma,Credit Card,24
+ORD1442,9/10/2024,C003,Annual AMC Contract,IT Support,3,126000,54000,72000,0,Completed,Sandeep Rao,Bank Transfer,6
+ORD1443,10/8/2024,C013,Penetration Testing,Security Services,1,66500,30000,36500,5,Completed,Pooja Singh,UPI,3
+ORD1444,9/12/2024,C004,Annual AMC Contract,IT Support,1,42000,18000,24000,0,Completed,Nikhil Gupta,Bank Transfer,3
+ORD1445,2/16/2024,C020,Data Analytics Dashboard,Analytics,5,450000,225000,225000,10,Completed,Sunita Pillai,Cheque,12
+ORD1446,1/28/2024,C028,IT Support & Maintenance,IT Support,3,94500,45000,49500,10,In Progress,Pooja Singh,UPI,12
+ORD1447,12/20/2024,C008,Cloud Infrastructure Setup,Cloud Services,3,513000,240000,273000,5,Cancelled,Sandeep Rao,Net Banking,12
+ORD1448,10/18/2024,C016,ERP Implementation,Software License,4,880000,360000,520000,0,Completed,Pooja Singh,Credit Card,6
+ORD1449,3/2/2024,C013,Cybersecurity Audit,Security Services,4,192000,100000,92000,20,Completed,Kavita Joshi,Bank Transfer,24
+ORD1450,1/24/2024,C027,Web Portal Development,Development,1,116000,60000,56000,20,Completed,Sunita Pillai,Net Banking,6
+ORD1451,12/30/2024,C002,Mobile App Development,Development,4,640000,340000,300000,20,In Progress,Sunita Pillai,Net Banking,6
+ORD1452,12/20/2024,C024,ERP Implementation,Software License,1,209000,90000,119000,5,Cancelled,Pooja Singh,Net Banking,12
+ORD1453,9/15/2024,C014,API Integration Service,Development,2,167200,76000,91200,5,Completed,Kavita Joshi,Cheque,24
+ORD1454,12/13/2024,C023,Network Setup & Config,IT Support,3,124800,66000,58800,20,Cancelled,Arjun Mehta,Cheque,6
+ORD1455,12/27/2024,C010,AI/ML Model Development,AI & Automation,2,476000,240000,236000,15,Cancelled,Amit Verma,Net Banking,12
+ORD1456,11/11/2024,C018,Annual AMC Contract,IT Support,5,189000,90000,99000,10,Cancelled,Nikhil Gupta,Net Banking,12
+ORD1457,8/4/2024,C017,Enterprise CRM Software,Software License,1,90250,40000,50250,5,Completed,Rohit Sharma,Bank Transfer,6
+ORD1458,5/16/2024,C006,Data Analytics Dashboard,Analytics,3,300000,135000,165000,0,Completed,Sandeep Rao,Credit Card,3
+ORD1459,7/2/2024,C004,API Integration Service,Development,5,352000,190000,162000,20,Completed,Arjun Mehta,UPI,6
+ORD1460,9/18/2024,C026,Data Analytics Dashboard,Analytics,1,95000,45000,50000,5,Completed,Nikhil Gupta,Cheque,3
+ORD1461,1/7/2024,C007,API Integration Service,Development,4,281600,152000,129600,20,Completed,Kavita Joshi,Net Banking,6
+ORD1462,10/19/2024,C022,AWS Management Package,Cloud Services,2,240000,100000,140000,0,Cancelled,Arjun Mehta,Bank Transfer,24
+ORD1463,1/21/2024,C018,Firewall & Network Security,Security Services,2,100000,40000,60000,0,In Progress,Sandeep Rao,Bank Transfer,12
+ORD1464,8/26/2024,C005,Cloud Migration Service,Cloud Services,2,266000,120000,146000,5,In Progress,Rohit Sharma,Net Banking,12
+ORD1465,9/8/2024,C018,AI/ML Model Development,AI & Automation,1,224000,120000,104000,20,Cancelled,Kavita Joshi,Net Banking,6
+ORD1466,4/4/2024,C026,Network Setup & Config,IT Support,2,98800,44000,54800,5,In Progress,Arjun Mehta,UPI,3
+ORD1467,10/24/2024,C022,Business Intelligence Report,Analytics,3,185250,84000,101250,5,Completed,Deepa Iyer,Net Banking,24
+ORD1468,10/14/2024,C021,Cloud Infrastructure Setup,Cloud Services,1,153000,80000,73000,15,Completed,Sunita Pillai,Credit Card,6
+ORD1469,1/21/2024,C011,Chatbot Development,AI & Automation,1,123500,55000,68500,5,Completed,Arjun Mehta,Cheque,3
+ORD1470,9/21/2024,C012,Network Setup & Config,IT Support,5,247000,110000,137000,5,Completed,Rohit Sharma,Cheque,6
+ORD1471,6/13/2024,C004,HR Management System,Software License,5,360000,175000,185000,10,Completed,Priya Nair,Credit Card,6
+ORD1472,12/16/2024,C004,Cybersecurity Audit,Security Services,5,240000,125000,115000,20,Cancelled,Nikhil Gupta,Bank Transfer,6
+ORD1473,1/13/2024,C011,Cloud Migration Service,Cloud Services,1,140000,60000,80000,0,Completed,Amit Verma,Cheque,3
+ORD1474,10/21/2024,C030,Firewall & Network Security,Security Services,4,190000,80000,110000,5,Completed,Nikhil Gupta,UPI,12
+ORD1475,1/9/2024,C004,Mobile App Development,Development,1,170000,85000,85000,15,Cancelled,Pooja Singh,Bank Transfer,3
+ORD1476,12/24/2024,C012,Network Setup & Config,IT Support,1,49400,22000,27400,5,Cancelled,Sandeep Rao,Net Banking,3
+ORD1477,5/24/2024,C015,Chatbot Development,AI & Automation,4,416000,220000,196000,20,Cancelled,Rohit Sharma,UPI,6
+ORD1478,11/16/2024,C026,Mobile App Development,Development,3,510000,255000,255000,15,Completed,Sandeep Rao,Cheque,3
+ORD1479,10/10/2024,C005,Enterprise CRM Software,Software License,1,95000,40000,55000,0,In Progress,Pooja Singh,UPI,3
+ORD1480,12/30/2024,C029,AI/ML Model Development,AI & Automation,2,532000,240000,292000,5,Cancelled,Arjun Mehta,Credit Card,6
+ORD1481,10/29/2024,C007,Enterprise CRM Software,Software License,2,161500,80000,81500,15,In Progress,Rohit Sharma,Net Banking,24
+ORD1482,11/26/2024,C010,AWS Management Package,Cloud Services,3,360000,150000,210000,0,Completed,Pooja Singh,UPI,12
+ORD1483,12/19/2024,C008,Enterprise CRM Software,Software License,3,256500,120000,136500,10,Completed,Deepa Iyer,Cheque,24
+ORD1484,8/18/2024,C022,Data Analytics Dashboard,Analytics,5,500000,225000,275000,0,In Progress,Pooja Singh,Cheque,12
+ORD1485,11/6/2024,C008,Penetration Testing,Security Services,4,266000,120000,146000,5,Completed,Amit Verma,Cheque,24
+ORD1486,8/24/2024,C025,Data Analytics Dashboard,Analytics,4,360000,180000,180000,10,Completed,Amit Verma,Net Banking,3
+ORD1487,5/23/2024,C005,Mobile App Development,Development,2,380000,170000,210000,5,Cancelled,Priya Nair,Bank Transfer,3
+ORD1488,9/16/2024,C027,Web Portal Development,Development,5,688750,300000,388750,5,In Progress,Deepa Iyer,Bank Transfer,12
+ORD1489,10/5/2024,C018,Annual AMC Contract,IT Support,2,79800,36000,43800,5,Completed,Deepa Iyer,Net Banking,12
+ORD1490,3/9/2024,C017,AWS Management Package,Cloud Services,4,456000,200000,256000,5,In Progress,Rohit Sharma,Credit Card,6
+ORD1491,10/17/2024,C006,Web Portal Development,Development,5,616250,300000,316250,15,Completed,Sunita Pillai,Cheque,3
+ORD1492,4/22/2024,C008,AWS Management Package,Cloud Services,3,342000,150000,192000,5,Completed,Rohit Sharma,Credit Card,12
+ORD1493,7/17/2024,C015,Cloud Migration Service,Cloud Services,1,119000,60000,59000,15,Completed,Priya Nair,Net Banking,12
+ORD1494,5/14/2024,C019,HR Management System,Software License,4,272000,140000,132000,15,Completed,Kavita Joshi,Net Banking,3
+ORD1495,10/25/2024,C017,Chatbot Development,AI & Automation,3,312000,165000,147000,20,Completed,Sunita Pillai,UPI,3
+ORD1496,9/13/2024,C015,HR Management System,Software License,2,160000,70000,90000,0,In Progress,Sandeep Rao,Credit Card,6
+ORD1497,12/13/2024,C023,Enterprise CRM Software,Software License,2,180500,80000,100500,5,Completed,Priya Nair,UPI,24
+ORD1498,10/17/2024,C021,RPA Implementation,AI & Automation,1,160000,70000,90000,0,Completed,Amit Verma,Net Banking,6
+ORD1499,3/9/2024,C002,Web Portal Development,Development,2,290000,120000,170000,0,Completed,Sandeep Rao,Credit Card,24
+ORD1500,11/2/2024,C021,Cloud Infrastructure Setup,Cloud Services,3,540000,240000,300000,0,Completed,Sunita Pillai,Net Banking,24

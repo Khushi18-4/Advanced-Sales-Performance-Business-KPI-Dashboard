@@ -1,0 +1,31 @@
+Customer_ID,Company_Name,Region,Segment
+C001,Infosys Ltd,South,Enterprise
+C002,Tata Consultancy,West,Enterprise
+C003,Wipro Technologies,South,Enterprise
+C004,HCL Systems,North,Enterprise
+C005,Reliance Digital,West,Corporate
+C006,HDFC Bank,West,Corporate
+C007,ICICI Tech,West,Corporate
+C008,Zomato Pvt Ltd,North,Corporate
+C009,Swiggy Inc,South,Corporate
+C010,Byju's Learning,South,Corporate
+C011,Ola Cabs,South,SMB
+C012,Paytm Services,North,SMB
+C013,Nykaa Fashion,North,SMB
+C014,Meesho Network,South,SMB
+C015,Dream11 Sports,West,SMB
+C016,Razorpay Tech,South,SMB
+C017,Zerodha Capital,South,SMB
+C018,CRED Fintech,South,SMB
+C019,Urban Company,North,SMB
+C020,Lenskart Vision,North,SMB
+C021,Tanishq Retail,West,Corporate
+C022,Myntra Fashion,South,Corporate
+C023,Flipkart India,South,Enterprise
+C024,Amazon India,North,Enterprise
+C025,Snapdeal Ltd,North,Corporate
+C026,MakeMyTrip,North,SMB
+C027,PolicyBazaar,North,Corporate
+C028,Groww Invest,South,SMB
+C029,PhonePe Pay,South,Corporate
+C030,BharatPe,North,SMB
