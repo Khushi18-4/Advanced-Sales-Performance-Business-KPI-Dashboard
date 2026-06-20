@@ -11,7 +11,8 @@ This repository contains **Task 2** of my Data Analytics & Business Intelligence
 * **Power BI (Data Modeling & KPI Dashboards):** Built a multi-table data model by establishing relationships between entities and designed an executive-ready dashboard with dynamic cross-filtering.
 
 ## 📊 Dashboard Preview
-"C:\Users\Khushi\Pictures\Screenshots\Screenshot 2026-06-19 142952.png"
+<img width="1086" height="610" alt="Screenshot 2026-06-19 142952" src="https://github.com/user-attachments/assets/c52ee092-6154-4f34-afd1-bbbe72f15a1a" />
+
 
 ## 🧮 Key Business KPIs Calculated
 1. **Average Order Value (AOV):** Calculated as `Total Sales ÷ Total Orders` to measure average transaction size.
