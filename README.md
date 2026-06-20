@@ -11,7 +11,6 @@ This repository contains **Task 2** of my Data Analytics & Business Intelligence
 * **Power BI (Data Modeling & KPI Dashboards):** Built a multi-table data model by establishing relationships between entities and designed an executive-ready dashboard with dynamic cross-filtering.
 
 ## 📊 Dashboard Preview
-*(Tip: Replace the filename below with your exact dashboard screenshot image name uploaded to GitHub)*
 "C:\Users\Khushi\Pictures\Screenshots\Screenshot 2026-06-19 142952.png"
 
 ## 🧮 Key Business KPIs Calculated
